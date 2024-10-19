@@ -9,7 +9,7 @@
       "description": "This perfectly thin cut just melts in your mouth.",
       "id": 1,
       "carbs": 0,
-      "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/asian-flank-steak.jpg"
+      "imageURL": "https://raw.githubusercontent.com/waqas-git/api/refs/heads/main/images/asian-flank-steak.jpg"
     },
     {
       "protein": 4,
@@ -19,7 +19,7 @@
       "description": "Seasoned shrimp from the depths of the Atlantic Ocean.",
       "id": 2,
       "carbs": 3,
-      "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/blackened-shrimp.jpg"
+      "imageURL": "https://raw.githubusercontent.com/waqas-git/api/refs/heads/main/images/blackened-shrimp.jpg"
     },
     {
       "protein": 5,
@@ -29,7 +29,7 @@
       "description": "The tasty bites of chicken have just the right amount of kick to them.",
       "id": 3,
       "carbs": 22,
-      "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/buffalo-chicken-bites.jpg"
+      "imageURL": "https://raw.githubusercontent.com/waqas-git/api/refs/heads/main/images/buffalo-chicken-bites.jpg"
     },
     {
       "name": "Chicken Avocado Spring Roll",
@@ -39,7 +39,7 @@
       "description": "These won't last 10 seconds once they hit the table.",
       "id": 4,
       "carbs": 19,
-      "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/chicken-avocado-spring-roll.jpg"
+      "imageURL": "https://raw.githubusercontent.com/waqas-git/api/refs/heads/main/images/chicken-avocado-spring-roll.jpg"
     },
     {
       "protein": 4,
@@ -49,7 +49,7 @@
       "description": "It's really hard to keep coming up with these descriptions.",
       "id": 5,
       "carbs": 14,
-      "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/chicken-dumplings.jpg"
+      "imageURL": "https://raw.githubusercontent.com/waqas-git/api/refs/heads/main/images/chicken-dumplings.jpg"
     },
     {
       "name": "Chicken Fingers",
@@ -59,7 +59,7 @@
       "description": "You can never go wrong with some good tenders.",
       "id": 6,
       "carbs": 5,
-      "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/chicken-fingers.jpg"
+      "imageURL": "https://raw.githubusercontent.com/waqas-git/api/refs/heads/main/images/chicken-fingers.jpg"
     },
     {
       "protein": 13,
@@ -69,7 +69,7 @@
       "description": "You'll need extra napkins with these tasty treats.",
       "id": 7,
       "carbs": 11,
-      "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/chicken-wings.jpg"
+      "imageURL": "https://raw.githubusercontent.com/waqas-git/api/refs/heads/main/images/chicken-wings.jpg"
     },
     {
       "protein": 2,
@@ -79,7 +79,7 @@
       "description": "I'm getting soooo hungry building this app...",
       "id": 8,
       "carbs": 29,
-      "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/fried-cheese-ravioli.jpg"
+      "imageURL": "https://raw.githubusercontent.com/waqas-git/api/refs/heads/main/images/fried-cheese-ravioli.jpg"
     },
     {
       "protein": 3,
@@ -89,7 +89,7 @@
       "description": "Scrumptious tots with a side of ranch.",
       "id": 9,
       "carbs": 40,
-      "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/jumbo-tater-tot.jpg"
+      "imageURL": "https://raw.githubusercontent.com/waqas-git/api/refs/heads/main/images/jumbo-tater-tot.jpg"
     },
     {
       "protein": 33,
@@ -99,7 +99,7 @@
       "description": "It's a spiiiiicy meat-a-ball!",
       "id": 10,
       "carbs": 2,
-      "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/meatballs.jpg"
+      "imageURL": "https://raw.githubusercontent.com/waqas-git/api/refs/heads/main/images/meatballs.jpg"
     },
     {
       "name": "Mozzarella Sticks",
@@ -109,7 +109,7 @@
       "description": "The best appetizer there is.\nDon't @ me.",
       "id": 11,
       "carbs": 32,
-      "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/mozzarella-sticks.jpg"
+      "imageURL": "https://raw.githubusercontent.com/waqas-git/api/refs/heads/main/images/mozzarella-sticks.jpg"
     },
     {
       "protein": 28,
@@ -119,7 +119,7 @@
       "description": "These look incredible. That's it. That's the description.",
       "id": 12,
       "carbs": 28,
-      "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/philly-cheesesteak-sliders.jpg"
+      "imageURL": "https://raw.githubusercontent.com/waqas-git/api/refs/heads/main/images/philly-cheesesteak-sliders.jpg"
     },
     {
       "protein": 2,
@@ -129,7 +129,7 @@
       "description": "How did these even make the menu???",
       "id": 13,
       "carbs": 4,
-      "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/rainbow-spring-rolls.jpg"
+      "imageURL": "https://raw.githubusercontent.com/waqas-git/api/refs/heads/main/images/rainbow-spring-rolls.jpg"
     },
     {
       "protein": 4,
@@ -139,7 +139,7 @@
       "description": "I'm getting hungrier just looking at these.",
       "id": 14,
       "carbs": 42,
-      "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/stuff-shells.jpg"
+      "imageURL": "https://raw.githubusercontent.com/waqas-git/api/refs/heads/main/images/stuff-shells.jpg"
     }
   ]
 }
